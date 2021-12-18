@@ -1,6 +1,6 @@
 
-# ODiscord Discord tokens checker
-A simple but blazing fast Discord tokens checker.
+# discord-token-checker
+discord-token-checker.
 
 ## Installation
 NPM Packages:
@@ -9,9 +9,5 @@ NPM Packages:
 
 ## Usage
 
-    node index.js <input>
+    node index.js tokens.txt
 
- - input - The discord tokens path to check.
-
-## License
-MIT © I2rys
